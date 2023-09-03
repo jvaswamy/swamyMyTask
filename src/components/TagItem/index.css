@@ -1,0 +1,19 @@
+.tagItem {
+  list-style-type: none;
+  margin-right: 12px;
+}
+.tag-btn {
+  outline: none;
+  cursor: pointer;
+  border-radius: 18px;
+  height: 36px;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: transparent;
+  border: 1px solid #f3aa4e;
+  color: #ffffff;
+}
+
+.active-btn {
+  background-color: #f3aa4e;
+}
